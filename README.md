@@ -1,7 +1,12 @@
 ## Hi there 👋
 
+[![Enneng Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ennengyang&show_icons=true&rank_icon=percentile)](https://github.com/EnnengYang)
+
+Contacts: ennengyang[at]stumail.neu.edu.cn
+
 <!--
 **EnnengYang/EnnengYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
