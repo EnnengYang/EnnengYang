@@ -1,6 +1,8 @@
 ## Hi 👋
 
+<!--
 [![Enneng Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ennengyang&show_icons=true&rank_icon=percentile)](https://github.com/EnnengYang)
+-->
 
 Contacts: ennengyang@qq.com
 
